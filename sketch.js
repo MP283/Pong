@@ -110,4 +110,5 @@ function draw() {
   //Score codes
   textSize(20)
   fill("WHITE")
+  }
 }
